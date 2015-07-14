@@ -40,7 +40,7 @@ Sub Example3()
 End Sub
 ```
    
-`I created two functions one very simples that only return true or false and another function that returns the JSON response.
+This library has two diferent ways to post. Post() that is very simple and only returns true or false, and PostOp(), a function that returns the JSON response and allow user to add optional parameters.
 
 Dependencies
 ============
